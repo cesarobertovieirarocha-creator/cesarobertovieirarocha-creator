@@ -68,7 +68,7 @@ Meu objetivo é evoluir continuamente e construir uma carreira na área de **Tec
 
 ## 📫 Conecte-se comigo
 
-💼 LinkedIn: linkedin.com/in/cesar-colins
+💼 LinkedIn: https://www.linkedin.com/in/cesar-colins
 
 💻 GitHub: https://github.com/cesarobertovieirarocha-creator
 
