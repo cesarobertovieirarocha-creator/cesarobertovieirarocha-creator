@@ -68,11 +68,11 @@ Meu objetivo é evoluir continuamente e construir uma carreira na área de **Tec
 
 ## 📫 Conecte-se comigo
 
-💼 **LinkedIn:** www.linkedin.com/in/cesar-colins
+💼 LinkedIn: linkedin.com/in/cesar-colins
 
-💻 **GitHub:** cesarobertovieirarocha-creator
+💻 GitHub: cesarobertovieirarocha-creator
 
-🌐  **GitHub:** https://cesar-roberto.vercel.app/
+🌐 Portfolio: cesar-roberto.vercel.app
 ---
 
 > *"Aprender tecnologia é transformar problemas em possibilidades."*
